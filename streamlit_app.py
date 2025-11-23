@@ -72,22 +72,22 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
        "texts": ["GS25는 혜자도시락이 유명합니다."],
-       "images": [""],
+       "images": ["https://cdn.foodnews.co.kr/news/photo/202402/106820_69472_410.jpg"],
        "videos": [""]
      },
      labels[1]: {
        "texts": ["세븐일레븐은 일본 콜라보 상품을 많이 팔아요."],
-       "images": [""],
+       "images": ["https://www.foodbank.co.kr/news/photo/202503/66028_25990_4817.jpg"],
        "videos": [""]
      },
      labels[2]: {
        "texts": ["씨유는 백종원도시락이 유명합니다."],
-       "images": [""],
+       "images": ["https://flexible.img.hani.co.kr/flexible/normal/800/232/imgdb/original/2022/0412/20220412502070.jpg"],
        "videos": [""]
      },
     labels[3]: {
        "texts": ["이마트24는 자체 브랜드상품 유명합니다."],
-       "images": [""],
+       "images": ["https://stqnq5ux4599.edge.naverncp.com/data2/content/image/2025/01/21/.cache/512/20250121500051.jpg"],
        "videos": [""]
      }
 }
